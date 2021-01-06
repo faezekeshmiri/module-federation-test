@@ -1,0 +1,21 @@
+.container{
+    text-align: center;
+    color: #e1d89f;
+    border: 2px solid #2c061f;
+    border-radius: 8px;
+    background-color: #2c061f;
+    margin-top: 40px;
+    
+}
+.grid-container {
+    padding: 40px;
+    margin-top: 40px;
+    display: grid;
+    grid-template-columns: auto auto;
+  }
+  .grid-item {
+    padding: 5px;
+    text-align: center;
+    font-size: 17px;
+  }
+  
